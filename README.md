@@ -1,2 +1,2 @@
 # axishub.io
-Landing page/hub for Axisverse
+Landing page/hub
